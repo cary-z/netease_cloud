@@ -1,5 +1,5 @@
 .content {
-  width: 80%;
+  flex: 1;
   color: #B2B2B2;
   background-color: #252525;
 }
